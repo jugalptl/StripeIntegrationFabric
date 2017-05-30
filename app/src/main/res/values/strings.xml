@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StripeIntegrationFabric</string>
+    <string name="com.stripe.publishable_key" translatable="false">pk_live_kJptffLxu8gKUrACdzH2HQ63</string>
+</resources>
